@@ -4,7 +4,7 @@ This repository is made available publicly; however, all copyrights belong to th
 
 Individual documents within this repository are the property of their respective creators. However, the repository itself is owned by B612. B612 reserves the right to delete any document within this repository but does not retain the right to modify any document.
 
-All documents within this repository may be exposed externally under notice. They may be made public for the benefit of B612, its participants, or external support organizations such as Naver Cloud Platform. Individual licenses cannot refuse this condition.
+All documents within this repository may be exposed externally under notice. They may be made public for the benefit of B612, its participants, or external support organizations. Individual licenses cannot refuse this condition.
 
 Contributors who contribute to this repository may set their own license policy for the documents they contribute. In order for a contributor's license policy to take effect, the contributor must include a file named LICENSE or LICENSE.md (case-insensitive) within their directory or specify their license at the top of their individual documents.
 
