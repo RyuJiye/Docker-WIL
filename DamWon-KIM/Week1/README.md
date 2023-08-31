@@ -1,5 +1,7 @@
 ## 생활코딩 Docker 입구 수업
 
+원래 Docker는 파이썬으로 만들어진 도구이다.
+2013년 파이콘에서 처음 등장하게 됨
 
 ```bash
 Docker위에서 돌아가는 contain, 또 그 container안에서 동작하는 app들은 Linux안에서 동작하는 app들이다.
@@ -10,20 +12,20 @@ Docker위에서 돌아가는 contain, 또 그 container안에서 동작하는 ap
 docker hub -> [pull] -> image -> [run] -> container
 
 ### image pull
-docker pull httpd
-docker images
+docker pull httpd </br>
+docker images </br>
 
 ### container run
-docker run httpd
-docker run --name ws httpd
-docker stop ws
-docker start ws
-docker ps -a
-docker logs ws
-docker logs -f ws
-docker rm ws
-docker rm --force ws
-docker rmi httpd
+docker run httpd </br>
+docker run --name ws httpd </br>
+docker stop ws </br>
+docker start ws </br>
+docker ps -a </br>
+docker logs ws </br>
+docker logs -f ws </br>
+docker rm ws </br>
+docker rm --force ws </br>
+docker rmi httpd </br>
 
 
 ![Docker_네트워크.jpg](Docker_네트워크.jpg)
